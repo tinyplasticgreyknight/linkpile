@@ -1,0 +1,8 @@
+Required: Script to do the following:
+
+Small UI to take a link, description and category as input which then places them in an appropriately formatted HTML file so that the user can navigate to the page from web browswer and be presented with the links in an easy to use format.
+
+Google Search for such a service suggests various web based applications such as Evernote and Springpad. Neither come with software for Linux.
+
+How hard could this be? :_
+

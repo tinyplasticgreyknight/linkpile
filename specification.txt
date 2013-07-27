@@ -1,0 +1,23 @@
+Web Interface
+	Login
+	Insert links, description and tag to database.
+	Navigate to html page that displays all links by tag.
+	Add single links, descriptions and tags.
+	Remove single links, descriptions and tags.
+	Edit single links, descriptions and tags.
+	Add bulk links, descriptions and tags.
+	Remove bulk links, descriptions and tags.
+	Edit bulk links, descriptions and tags.
+	Switch between multiple databases. For example if user2 was visiting user1 and wanted to add links to user1 database and vice versa.
+	
+GUI
+	Login
+	Insert links, description and tag to database.
+	Navigate to html page that displays all links by tag.
+	Add single links, descriptions and tags.
+	Remove single links, descriptions and tags.
+	Edit single links, descriptions and tags.
+	Add bulk links, descriptions and tags.
+	Remove bulk links, descriptions and tags.
+	Edit bulk links, descriptions and tags.
+	Switch between multiple databases. For example if user2 was visiting user1 and wanted to add links to user1 database and vice versa.
